@@ -2,16 +2,25 @@
 
 "Yer qa'ridan foydalanish markazi" Davlat muassasasi xodimlari uchun raqamli vizit-karta (digital business card) sahifalari.
 
+## Jonli sahifalar (GitHub Pages)
+
+| Xodim | Lavozim | Havola |
+|---|---|---|
+| Toxtayev Jasur Talatovich | Direktor o'rinbosari | https://ramazonma.github.io/yqfmuz/toxtayev.html |
+| Xalmatov Baxtiyor Ilxamdjanovich | — | https://ramazonma.github.io/yqfmuz/xalmatov.html |
+| Badalov Feruz Amirovich | — | https://ramazonma.github.io/yqfmuz/badalov.html |
+| Azimov Jo'rabek Nafiddinovich | — | https://ramazonma.github.io/yqfmuz/azimov.html |
+
 ## Tarkib
 
-`xodimlar/` papkasida har bir xodim uchun alohida HTML sahifa mavjud:
+`docs/` papkasida har bir xodim uchun alohida HTML sahifa mavjud (GitHub Pages shu papkadan ishga tushiriladi):
 
 | Fayl | F.I.Sh. | Lavozim |
 |---|---|---|
-| [`toxtayev.html`](xodimlar/toxtayev.html) | Toxtayev Jasur Talatovich | Direktor o'rinbosari |
-| [`xalmatov.html`](xodimlar/xalmatov.html) | Xalmatov Baxtiyor Ilxamdjanovich | — |
-| [`badalov.html`](xodimlar/badalov.html) | Badalov Feruz Amirovich | — |
-| [`azimov.html`](xodimlar/azimov.html) | Azimov Jo'rabek Nafiddinovich | — |
+| [`toxtayev.html`](docs/toxtayev.html) | Toxtayev Jasur Talatovich | Direktor o'rinbosari |
+| [`xalmatov.html`](docs/xalmatov.html) | Xalmatov Baxtiyor Ilxamdjanovich | — |
+| [`badalov.html`](docs/badalov.html) | Badalov Feruz Amirovich | — |
+| [`azimov.html`](docs/azimov.html) | Azimov Jo'rabek Nafiddinovich | — |
 
 Har bir sahifada:
 
