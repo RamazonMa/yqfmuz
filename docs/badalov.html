@@ -367,13 +367,22 @@
     <script>
         let currentLang = 'uz';
 
-        function toggleLang() {
-            currentLang = currentLang === 'uz' ? 'en' : 'uz';
+        function applyLang() {
             document.documentElement.lang = currentLang;
             document.querySelectorAll('[data-uz]').forEach(function (el) {
                 el.textContent = el.getAttribute(currentLang === 'uz' ? 'data-uz' : 'data-en');
             });
             document.getElementById('langBtn').textContent = currentLang === 'uz' ? 'EN' : 'UZ';
+        }
+
+        function toggleLang() {
+            currentLang = currentLang === 'uz' ? 'en' : 'uz';
+            applyLang();
+        }
+
+        if (new URLSearchParams(window.location.search).get('lang') === 'en') {
+            currentLang = 'en';
+            applyLang();
         }
     </script>
 </body>
