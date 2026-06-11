@@ -18,9 +18,9 @@
 | Fayl | F.I.Sh. | Lavozim |
 |---|---|---|
 | [`toxtayev.html`](docs/toxtayev.html) | Toxtayev Jasur Talatovich | Direktor o'rinbosari |
-| [`xalmatov.html`](docs/xalmatov.html) | Xalmatov Baxtiyor Ilxamdjanovich | — |
-| [`badalov.html`](docs/badalov.html) | Badalov Feruz Amirovich | — |
-| [`azimov.html`](docs/azimov.html) | Azimov Jo'rabek Nafiddinovich | — |
+| [`xalmatov.html`](docs/xalmatov.html) | Xalmatov Baxtiyor Ilxamdjanovich | Direktor o'rinbosari |
+| [`badalov.html`](docs/badalov.html) | Badalov Feruz Amirovich | Direktor o'rinbosari |
+| [`azimov.html`](docs/azimov.html) | Azimov Jo'rabek Nafiddinovich | Direktor o'rinbosari |
 
 Har bir sahifada:
 
