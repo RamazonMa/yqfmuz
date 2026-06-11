@@ -7,9 +7,9 @@
 | Xodim | Lavozim | Havola |
 |---|---|---|
 | Toxtayev Jasur Talatovich | Direktor o'rinbosari | https://ramazonma.github.io/yqfmuz/toxtayev.html |
-| Xalmatov Baxtiyor Ilxamdjanovich | — | https://ramazonma.github.io/yqfmuz/xalmatov.html |
-| Badalov Feruz Amirovich | — | https://ramazonma.github.io/yqfmuz/badalov.html |
-| Azimov Jo'rabek Nafiddinovich | — | https://ramazonma.github.io/yqfmuz/azimov.html |
+| Xalmatov Baxtiyor Ilxamdjanovich | Direktor o'rinbosari | https://ramazonma.github.io/yqfmuz/xalmatov.html |
+| Badalov Feruz Amirovich | Direktor o'rinbosari | https://ramazonma.github.io/yqfmuz/badalov.html |
+| Azimov Jo'rabek Nafiddinovich | Direktor o'rinbosari | https://ramazonma.github.io/yqfmuz/azimov.html |
 
 ## Tarkib
 
